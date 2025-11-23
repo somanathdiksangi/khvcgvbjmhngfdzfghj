@@ -120,3 +120,4 @@ This was my first big project so there are lot of things to improve upon
 ## License 📝
 This project is licensed under [GNU (GENERAL PUBLIC LICENSE)](https://github.com/AnMol12499/CropcareAI/blob/main/LICENSE)
 "# khvcgvbjmhngfdzfghj" 
+"# Spit_havkthone-" 
